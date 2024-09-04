@@ -9,7 +9,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-= Adds an enquiry form to WooCommerce single product page =
+= Adds an Inquiry form to WooCommerce single product page =
 
 
 
